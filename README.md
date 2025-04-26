@@ -9,6 +9,7 @@ This is a API Framework for SatuSehat API. Created by Kristian.
 - PostgreSQL-based database created automatically with JPA. Run the program and Hibernate will create the table for you!
 - Image uploading (via moving to an Image directory)
 - Environment-based configuration using `.env` + `application.properties`
+- Basic Authorization system
 
 ## Tech Stack
 

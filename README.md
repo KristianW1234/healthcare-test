@@ -63,7 +63,9 @@ Comment this line:
 
 $spring.jpa.hibernate.ddl-auto=create
 
-Because if you don't, the next time you start up the application, the database schema of healthcare will be reset and you will have to start uploading data again from scratch!
+Because if you don't, the next time you start up the application,
+the database schema of healthcare will be reset
+and you will have to start uploading data again from scratch!
 ```
 
 ## Note 
@@ -73,12 +75,14 @@ Endpoints are currently protected using basic Spring Security with in-memory aut
 This can be replaced with Auth0 integration when access to a valid JWT provider is available.
 ```
 
-
 ##Author
-
+```
 Kristian
 Github: @KristianW1234
+```
 
 #License
+```
 This project is open-source and free to use.
+```
 

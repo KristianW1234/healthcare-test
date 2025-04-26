@@ -75,13 +75,13 @@ Endpoints are currently protected using basic Spring Security with in-memory aut
 This can be replaced with Auth0 integration when access to a valid JWT provider is available.
 ```
 
-##Author
+## Author
 ```
 Kristian
 Github: @KristianW1234
 ```
 
-#License
+# License
 ```
 This project is open-source and free to use.
 ```

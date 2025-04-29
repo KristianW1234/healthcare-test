@@ -44,7 +44,7 @@ EP_PASSWORD=(The password you will use to set the Basic Auth for API Request)
 ### 3. Make sure everything on your end is ready, then run it once.
 
 ```
-Make sure there is no error from your IDE side, and make sure you have installed PostgreSQL and the task is running.
+Make sure there is no error from your IDE side, and make sure you have installed PostgreSQL and the database you are going to use already has the schema 'healthcare' and the task is running.
 
 Once the application runs once, the database schema will be created automatically.
 ```
